@@ -6,6 +6,7 @@
 
 // ---------- Project and AWS Region ----------
 variable "project_name" {
+
   description = "tanmay-codepipeline"
   type        = string
 }
